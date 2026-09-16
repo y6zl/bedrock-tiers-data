@@ -13,6 +13,10 @@
           "tier": "LT3",
           "queue": "Buff"
         },
+        "Netherite Op": {
+          "tier": "LT3",
+          "queue": "Buff"
+        },
         "Diamond Potions": {
           "tier": "LT3",
           "queue": "Buff"
@@ -20,6 +24,10 @@
         "Netherite Smp": {
           "tier": "LT3",
           "queue": "SMP"
+        },
+        "Spear Mace": {
+          "tier": "LT3",
+          "queue": "Mace & Spear"
         },
         "Melee": {
           "tier": "LT3",
@@ -64,9 +72,17 @@
           "tier": "LT3",
           "queue": "Sword"
         },
+        "Netherite Op": {
+          "tier": "HT3",
+          "queue": "Buff"
+        },
         "Diamond Sword": {
           "tier": "HT3",
           "queue": "Sword"
+        },
+        "Uhc": {
+          "tier": "LT2",
+          "queue": "Shield"
         }
       }
     },
@@ -91,9 +107,17 @@
           "tier": "LT4",
           "queue": "SMP"
         },
+        "Spear Mace": {
+          "tier": "LT4",
+          "queue": "Mace & Spear"
+        },
         "Melee": {
           "tier": "LT4",
           "queue": "Shield"
+        },
+        "Netherite Op": {
+          "tier": "HT4",
+          "queue": "Buff"
         },
         "Diamond Potions": {
           "tier": "HT4",
@@ -151,13 +175,48 @@
       "ign": "Sword (dont add to ht)",
       "avatar": "https://cdn.discordapp.com/avatars/1180174922375512164/6086667a529805d4900019171a4aac4e.png?size=1024",
       "joinedAt": "2026-06-29T10:25:58.520000+00:00",
-      "region": null,
+      "region": "AF",
       "tiers": {
         "Diamond Sword": {
           "tier": "LT3",
           "queue": "Sword"
         },
         "Elytra Mace": {
+          "tier": "HT3",
+          "queue": "Mace & Spear"
+        }
+      }
+    },
+    {
+      "discordId": "1455835547221102799",
+      "username": "fake0956kq",
+      "displayName": "Tuff",
+      "ign": "Tuff",
+      "avatar": "https://cdn.discordapp.com/avatars/1455835547221102799/769ac426b5fd3e6c312369e490bf37d2.png?size=1024",
+      "joinedAt": "2026-06-18T08:44:39.315000+00:00",
+      "region": "EU",
+      "tiers": {
+        "Netherite Op": {
+          "tier": "LT4",
+          "queue": "Buff"
+        },
+        "Rod": {
+          "tier": "HT4",
+          "queue": "Buff"
+        },
+        "Elytra Mace": {
+          "tier": "HT4",
+          "queue": "Mace & Spear"
+        },
+        "Uhc": {
+          "tier": "LT3",
+          "queue": "Shield"
+        },
+        "Diamond Sword": {
+          "tier": "LT3",
+          "queue": "Sword"
+        },
+        "Spear Mace": {
           "tier": "HT3",
           "queue": "Mace & Spear"
         }
@@ -218,6 +277,10 @@
       "joinedAt": "2026-08-05T18:37:36.942000+00:00",
       "region": "EU",
       "tiers": {
+        "Netherite Op": {
+          "tier": "HT4",
+          "queue": "Buff"
+        },
         "Diamond Sword": {
           "tier": "HT4",
           "queue": "Sword"
@@ -249,6 +312,10 @@
           "tier": "HT4",
           "queue": "Shield"
         },
+        "Netherite Op": {
+          "tier": "LT3",
+          "queue": "Buff"
+        },
         "Axe": {
           "tier": "LT3",
           "queue": "Shield"
@@ -256,6 +323,25 @@
         "Uhc": {
           "tier": "LT3",
           "queue": "Shield"
+        },
+        "Diamond Sword": {
+          "tier": "LT3",
+          "queue": "Sword"
+        }
+      }
+    },
+    {
+      "discordId": "1167862948740468769",
+      "username": "xsplitx_",
+      "displayName": "Daddy",
+      "ign": "Daddy",
+      "avatar": "https://cdn.discordapp.com/avatars/1167862948740468769/3976f1730a2357f2d20420f0435197be.png?size=1024",
+      "joinedAt": "2026-07-21T13:12:45.159000+00:00",
+      "region": "AS",
+      "tiers": {
+        "Netherite Op": {
+          "tier": "HT4",
+          "queue": "Buff"
         },
         "Diamond Sword": {
           "tier": "LT3",
@@ -299,6 +385,25 @@
       }
     },
     {
+      "discordId": "810245715166363658",
+      "username": "subzheroo",
+      "displayName": "ign --> xOsczrr",
+      "ign": "ign --> xOsczrr",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
+      "joinedAt": "2026-08-14T16:31:00.834000+00:00",
+      "region": "EU",
+      "tiers": {
+        "Netherite Op": {
+          "tier": "HT4",
+          "queue": "Buff"
+        },
+        "Uhc": {
+          "tier": "LT3",
+          "queue": "Shield"
+        }
+      }
+    },
+    {
       "discordId": "1236219920342323273",
       "username": "jam1e0882",
       "displayName": "JamieplaysYT960",
@@ -329,6 +434,37 @@
         "Elytra Mace": {
           "tier": "HT4",
           "queue": "Mace & Spear"
+        }
+      }
+    },
+    {
+      "discordId": "880759551366942740",
+      "username": "lenftbl",
+      "displayName": "Len DONT ADD TO HIGH TEST",
+      "ign": "Len DONT ADD TO HIGH TEST",
+      "avatar": "https://cdn.discordapp.com/avatars/880759551366942740/435d650cb7253da9c900119d5641da5e.png?size=1024",
+      "joinedAt": "2026-06-01T18:45:35.403000+00:00",
+      "region": "EU",
+      "tiers": {
+        "Netherite Op": {
+          "tier": "HT4",
+          "queue": "Buff"
+        },
+        "Spear Mace": {
+          "tier": "HT4",
+          "queue": "Mace & Spear"
+        },
+        "Elytra Mace": {
+          "tier": "LT3",
+          "queue": "Mace & Spear"
+        },
+        "Axe": {
+          "tier": "LT3",
+          "queue": "Shield"
+        },
+        "Diamond Sword": {
+          "tier": "LT3",
+          "queue": "Sword"
         }
       }
     },
@@ -387,6 +523,10 @@
       "region": "EU",
       "tiers": {
         "Rod": {
+          "tier": "HT4",
+          "queue": "Buff"
+        },
+        "Netherite Op": {
           "tier": "HT4",
           "queue": "Buff"
         },
@@ -466,33 +606,6 @@
       }
     },
     {
-      "discordId": "1455835547221102799",
-      "username": "fake0956kq",
-      "displayName": "Tuff",
-      "ign": "Tuff",
-      "avatar": "https://cdn.discordapp.com/avatars/1455835547221102799/769ac426b5fd3e6c312369e490bf37d2.png?size=1024",
-      "joinedAt": "2026-06-18T08:44:39.315000+00:00",
-      "region": "EU",
-      "tiers": {
-        "Rod": {
-          "tier": "HT4",
-          "queue": "Buff"
-        },
-        "Elytra Mace": {
-          "tier": "HT4",
-          "queue": "Mace & Spear"
-        },
-        "Uhc": {
-          "tier": "LT3",
-          "queue": "Shield"
-        },
-        "Diamond Sword": {
-          "tier": "LT3",
-          "queue": "Sword"
-        }
-      }
-    },
-    {
       "discordId": "1539269956842164314",
       "username": "yondration",
       "displayName": "Yondr",
@@ -525,6 +638,10 @@
       "region": "EU",
       "tiers": {
         "Rod": {
+          "tier": "HT4",
+          "queue": "Buff"
+        },
+        "Netherite Op": {
           "tier": "HT4",
           "queue": "Buff"
         },
@@ -563,9 +680,17 @@
           "tier": "LT3",
           "queue": "Buff"
         },
+        "Netherite Op": {
+          "tier": "LT3",
+          "queue": "Buff"
+        },
         "Netherite Smp": {
           "tier": "LT3",
           "queue": "SMP"
+        },
+        "Spear Mace": {
+          "tier": "LT3",
+          "queue": "Mace & Spear"
         },
         "Melee": {
           "tier": "LT3",
@@ -661,8 +786,12 @@
       "ign": "axelwasheremc",
       "avatar": "https://cdn.discordapp.com/avatars/1249636872964014120/90af3edb8a282a1fb72eb4ca13e79441.png?size=1024",
       "joinedAt": "2026-06-09T16:54:15.176000+00:00",
-      "region": null,
+      "region": "AF",
       "tiers": {
+        "Spear Mace": {
+          "tier": "LT5",
+          "queue": "Mace & Spear"
+        },
         "Axe": {
           "tier": "LT5",
           "queue": "Shield"
@@ -725,7 +854,7 @@
       "ign": "djwd.z",
       "avatar": "https://cdn.discordapp.com/avatars/1200500159675633787/66817b64d09d8fd8625677c659ebf795.png?size=1024",
       "joinedAt": "2026-09-05T20:32:21.657000+00:00",
-      "region": null,
+      "region": "AF",
       "tiers": {
         "Diamond Potions": {
           "tier": "HT5",
@@ -844,6 +973,10 @@
           "tier": "LT5",
           "queue": "Shield"
         },
+        "Netherite Op": {
+          "tier": "HT5",
+          "queue": "Buff"
+        },
         "Diamond Potions": {
           "tier": "HT5",
           "queue": "Buff"
@@ -851,6 +984,25 @@
         "Diamond Sword": {
           "tier": "HT5",
           "queue": "Sword"
+        }
+      }
+    },
+    {
+      "discordId": "1470854666840440915",
+      "username": "i_wanna_watch_footage6789_77246",
+      "displayName": "I_wanna_watch_footage6789",
+      "ign": "i_wanna_watch_footage6789_77246",
+      "avatar": "https://cdn.discordapp.com/avatars/1470854666840440915/61de7cc57b939b8f2ee8d259a72da36a.png?size=1024",
+      "joinedAt": "2026-05-20T16:38:16.295000+00:00",
+      "region": "EU",
+      "tiers": {
+        "Diamond Potions": {
+          "tier": "LT5",
+          "queue": "Buff"
+        },
+        "Spear Mace": {
+          "tier": "HT5",
+          "queue": "Mace & Spear"
         }
       }
     },
@@ -918,8 +1070,12 @@
       "ign": "kingmaxthe1st_",
       "avatar": "https://cdn.discordapp.com/avatars/1439338843814887576/5a36273c8bfc2487087308da393072d7.png?size=1024",
       "joinedAt": "2026-05-03T18:46:21.527000+00:00",
-      "region": null,
+      "region": "AF",
       "tiers": {
+        "Spear Mace": {
+          "tier": "LT5",
+          "queue": "Mace & Spear"
+        },
         "Axe": {
           "tier": "LT5",
           "queue": "Shield"
@@ -970,6 +1126,10 @@
       "joinedAt": "2026-08-10T12:40:30.785000+00:00",
       "region": "AS",
       "tiers": {
+        "Netherite Op": {
+          "tier": "LT5",
+          "queue": "Buff"
+        },
         "Diamond Sword": {
           "tier": "HT5",
           "queue": "Sword"
@@ -1080,6 +1240,10 @@
       "joinedAt": "2026-06-27T12:07:19.949000+00:00",
       "region": "EU",
       "tiers": {
+        "Netherite Op": {
+          "tier": "HT5",
+          "queue": "Buff"
+        },
         "Diamond Sword": {
           "tier": "HT5",
           "queue": "Sword"
@@ -1122,6 +1286,10 @@
       "joinedAt": "2026-05-29T20:33:24.130000+00:00",
       "region": "AS",
       "tiers": {
+        "Netherite Op": {
+          "tier": "LT5",
+          "queue": "Buff"
+        },
         "Elytra Mace": {
           "tier": "LT5",
           "queue": "Mace & Spear"
@@ -1129,6 +1297,10 @@
         "Uhc": {
           "tier": "LT5",
           "queue": "Shield"
+        },
+        "Spear Mace": {
+          "tier": "HT5",
+          "queue": "Mace & Spear"
         },
         "Diamond Sword": {
           "tier": "HT5",
@@ -1158,7 +1330,7 @@
       "ign": "sofyanws",
       "avatar": "https://cdn.discordapp.com/avatars/793124346796965920/aa8718716e45a3d9353c498ef1511b8f.png?size=1024",
       "joinedAt": "2026-06-09T15:38:10.759000+00:00",
-      "region": null,
+      "region": "AF",
       "tiers": {
         "Diamond Sword": {
           "tier": "HT5",
@@ -1173,7 +1345,7 @@
       "ign": "soundseing36",
       "avatar": "https://cdn.discordapp.com/avatars/1539294549782958151/8768fc9fc01ecc9bad2c7f7fe7c2ad2c.png?size=1024",
       "joinedAt": "2026-09-14T13:47:02.131000+00:00",
-      "region": null,
+      "region": "AF",
       "tiers": {
         "Axe": {
           "tier": "LT5",
@@ -1194,6 +1366,14 @@
       "joinedAt": "2026-06-28T12:34:36.914000+00:00",
       "region": "EU",
       "tiers": {
+        "Netherite Op": {
+          "tier": "HT5",
+          "queue": "Buff"
+        },
+        "Spear Mace": {
+          "tier": "HT5",
+          "queue": "Mace & Spear"
+        },
         "Diamond Sword": {
           "tier": "HT5",
           "queue": "Sword"
@@ -1244,9 +1424,40 @@
           "tier": "HT5",
           "queue": "Sword"
         },
+        "Spear Mace": {
+          "tier": "LT4",
+          "queue": "Mace & Spear"
+        },
         "Netherite Sword": {
           "tier": "LT4",
           "queue": "Sword"
+        }
+      }
+    },
+    {
+      "discordId": "1340560215531065356",
+      "username": "thunderbhaia.",
+      "displayName": "\u1d20\u1d0f\u029f\u1d1b\u0280\u026ax",
+      "ign": "thunderbhaia.",
+      "avatar": "https://cdn.discordapp.com/avatars/1340560215531065356/b8739a601cbf01b30e3e299649d52081.png?size=1024",
+      "joinedAt": "2026-06-09T08:15:19.275000+00:00",
+      "region": "AS",
+      "tiers": {
+        "Rod": {
+          "tier": "LT5",
+          "queue": "Buff"
+        },
+        "Elytra Mace": {
+          "tier": "LT5",
+          "queue": "Mace & Spear"
+        },
+        "Uhc": {
+          "tier": "LT5",
+          "queue": "Shield"
+        },
+        "Spear Mace": {
+          "tier": "HT5",
+          "queue": "Mace & Spear"
         }
       }
     },
@@ -1411,21 +1622,6 @@
       }
     },
     {
-      "discordId": "1167862948740468769",
-      "username": "xsplitx_",
-      "displayName": "Daddy",
-      "ign": "Daddy",
-      "avatar": "https://cdn.discordapp.com/avatars/1167862948740468769/3976f1730a2357f2d20420f0435197be.png?size=1024",
-      "joinedAt": "2026-07-21T13:12:45.159000+00:00",
-      "region": "AS",
-      "tiers": {
-        "Diamond Sword": {
-          "tier": "LT3",
-          "queue": "Sword"
-        }
-      }
-    },
-    {
       "discordId": "1484179642137968770",
       "username": "famoousefrost",
       "displayName": "FamoouseFrost:D",
@@ -1437,21 +1633,6 @@
         "Diamond Sword": {
           "tier": "LT3",
           "queue": "Sword"
-        }
-      }
-    },
-    {
-      "discordId": "810245715166363658",
-      "username": "subzheroo",
-      "displayName": "ign --> xOsczrr",
-      "ign": "ign --> xOsczrr",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/1.png",
-      "joinedAt": "2026-08-14T16:31:00.834000+00:00",
-      "region": "EU",
-      "tiers": {
-        "Uhc": {
-          "tier": "LT3",
-          "queue": "Shield"
         }
       }
     },
@@ -1510,25 +1691,21 @@
       }
     },
     {
-      "discordId": "880759551366942740",
-      "username": "lenftbl",
-      "displayName": "Len DONT ADD TO HIGH TEST",
-      "ign": "Len DONT ADD TO HIGH TEST",
-      "avatar": "https://cdn.discordapp.com/avatars/880759551366942740/435d650cb7253da9c900119d5641da5e.png?size=1024",
-      "joinedAt": "2026-06-01T18:45:35.403000+00:00",
+      "discordId": "1418566898995691631",
+      "username": "momo060706",
+      "displayName": "Momo",
+      "ign": "momo060706",
+      "avatar": "https://cdn.discordapp.com/avatars/1418566898995691631/e61321c878f01d11c498de0f14199098.png?size=1024",
+      "joinedAt": "2026-06-13T12:43:20.538000+00:00",
       "region": "EU",
       "tiers": {
-        "Elytra Mace": {
+        "Diamond Sword": {
+          "tier": "LT5",
+          "queue": "Sword"
+        },
+        "Spear Mace": {
           "tier": "LT3",
           "queue": "Mace & Spear"
-        },
-        "Axe": {
-          "tier": "LT3",
-          "queue": "Shield"
-        },
-        "Diamond Sword": {
-          "tier": "LT3",
-          "queue": "Sword"
         }
       }
     },
@@ -1542,6 +1719,10 @@
       "region": "NA",
       "tiers": {
         "Rod": {
+          "tier": "LT3",
+          "queue": "Buff"
+        },
+        "Netherite Op": {
           "tier": "LT3",
           "queue": "Buff"
         },
@@ -1571,6 +1752,14 @@
         "Rod": {
           "tier": "LT3",
           "queue": "Buff"
+        },
+        "Netherite Op": {
+          "tier": "LT3",
+          "queue": "Buff"
+        },
+        "Spear Mace": {
+          "tier": "LT3",
+          "queue": "Mace & Spear"
         },
         "Elytra Mace": {
           "tier": "LT3",
@@ -1640,6 +1829,21 @@
         "Uhc": {
           "tier": "LT3",
           "queue": "Shield"
+        }
+      }
+    },
+    {
+      "discordId": "1414629582140870677",
+      "username": "wandigoat",
+      "displayName": "WandiGOAT",
+      "ign": "wandigoat",
+      "avatar": "https://cdn.discordapp.com/avatars/1414629582140870677/add13d5d8b6c681654591e65c8707472.png?size=1024",
+      "joinedAt": "2026-08-08T16:34:20.928000+00:00",
+      "region": "EU",
+      "tiers": {
+        "Spear Mace": {
+          "tier": "LT3",
+          "queue": "Mace & Spear"
         }
       }
     },
@@ -1731,6 +1935,21 @@
       }
     },
     {
+      "discordId": "1320627219982319632",
+      "username": "enzo_fragments._.",
+      "displayName": "APEX ENzoYRNR",
+      "ign": "enzo_fragments._.",
+      "avatar": "https://cdn.discordapp.com/avatars/1320627219982319632/b126dfa753293e94111501763d7b5db7.png?size=1024",
+      "joinedAt": "2026-05-18T15:52:38.282000+00:00",
+      "region": "AS",
+      "tiers": {
+        "Spear Mace": {
+          "tier": "LT4",
+          "queue": "Mace & Spear"
+        }
+      }
+    },
+    {
       "discordId": "1082465248134582313",
       "username": "jay_richards",
       "displayName": "CovenOwnsU",
@@ -1773,6 +1992,10 @@
       "joinedAt": "2026-08-06T05:20:11.458000+00:00",
       "region": "NA",
       "tiers": {
+        "Netherite Op": {
+          "tier": "LT4",
+          "queue": "Buff"
+        },
         "Melee": {
           "tier": "LT4",
           "queue": "Shield"
@@ -1814,6 +2037,21 @@
       }
     },
     {
+      "discordId": "1480016152867377225",
+      "username": "moejoe70671",
+      "displayName": "\ud835\udc0c\ud835\udc28\ud835\udc1e\ud835\udc09\ud835\udc28\ud835\udc1e\ud835\udfd5",
+      "ign": "moejoe70671",
+      "avatar": "https://cdn.discordapp.com/avatars/1480016152867377225/edac03faad873dcff787583f80413ad8.png?size=1024",
+      "joinedAt": "2026-03-31T23:51:41.366000+00:00",
+      "region": null,
+      "tiers": {
+        "Spear Mace": {
+          "tier": "LT4",
+          "queue": "Mace & Spear"
+        }
+      }
+    },
+    {
       "discordId": "1234062385028005909",
       "username": "monfluer100xd",
       "displayName": "Oaken",
@@ -1829,6 +2067,21 @@
         "Uhc": {
           "tier": "LT4",
           "queue": "Shield"
+        }
+      }
+    },
+    {
+      "discordId": "939245164864635020",
+      "username": "notvlado799",
+      "displayName": "deleted_user_30e07375d291",
+      "ign": "notvlado799",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/5.png",
+      "joinedAt": "2026-06-09T15:02:00.810000+00:00",
+      "region": "NA",
+      "tiers": {
+        "Netherite Op": {
+          "tier": "LT4",
+          "queue": "Buff"
         }
       }
     },
@@ -2164,7 +2417,7 @@
       "ign": "cyborade",
       "avatar": "https://cdn.discordapp.com/avatars/1357656294982422558/f69dc3328e8d0311c22295e688f709c0.png?size=1024",
       "joinedAt": "2026-03-05T17:10:25.245000+00:00",
-      "region": null,
+      "region": "AF",
       "tiers": {
         "Elytra Mace": {
           "tier": "LT5",
@@ -2231,6 +2484,10 @@
       "joinedAt": "2026-06-24T15:51:14.625000+00:00",
       "region": "EU",
       "tiers": {
+        "Netherite Op": {
+          "tier": "LT5",
+          "queue": "Buff"
+        },
         "Diamond Potions": {
           "tier": "LT5",
           "queue": "Buff"
@@ -2268,21 +2525,6 @@
         "Diamond Sword": {
           "tier": "LT5",
           "queue": "Sword"
-        }
-      }
-    },
-    {
-      "discordId": "1470854666840440915",
-      "username": "i_wanna_watch_footage6789_77246",
-      "displayName": "I_wanna_watch_footage6789",
-      "ign": "i_wanna_watch_footage6789_77246",
-      "avatar": "https://cdn.discordapp.com/avatars/1470854666840440915/61de7cc57b939b8f2ee8d259a72da36a.png?size=1024",
-      "joinedAt": "2026-05-20T16:38:16.295000+00:00",
-      "region": "EU",
-      "tiers": {
-        "Diamond Potions": {
-          "tier": "LT5",
-          "queue": "Buff"
         }
       }
     },
@@ -2415,21 +2657,6 @@
       }
     },
     {
-      "discordId": "1418566898995691631",
-      "username": "momo060706",
-      "displayName": "Momo",
-      "ign": "momo060706",
-      "avatar": "https://cdn.discordapp.com/avatars/1418566898995691631/e61321c878f01d11c498de0f14199098.png?size=1024",
-      "joinedAt": "2026-06-13T12:43:20.538000+00:00",
-      "region": "EU",
-      "tiers": {
-        "Diamond Sword": {
-          "tier": "LT5",
-          "queue": "Sword"
-        }
-      }
-    },
-    {
       "discordId": "1380381057685262478",
       "username": "mrboot96_11813",
       "displayName": "Mrboot96",
@@ -2502,6 +2729,10 @@
       "joinedAt": "2026-06-15T09:21:18.018000+00:00",
       "region": "EU",
       "tiers": {
+        "Spear Mace": {
+          "tier": "LT5",
+          "queue": "Mace & Spear"
+        },
         "Elytra Mace": {
           "tier": "LT5",
           "queue": "Mace & Spear"
@@ -2524,36 +2755,13 @@
       }
     },
     {
-      "discordId": "1340560215531065356",
-      "username": "thunderbhaia.",
-      "displayName": "\u1d20\u1d0f\u029f\u1d1b\u0280\u026ax",
-      "ign": "thunderbhaia.",
-      "avatar": "https://cdn.discordapp.com/avatars/1340560215531065356/b8739a601cbf01b30e3e299649d52081.png?size=1024",
-      "joinedAt": "2026-06-09T08:15:19.275000+00:00",
-      "region": "AS",
-      "tiers": {
-        "Rod": {
-          "tier": "LT5",
-          "queue": "Buff"
-        },
-        "Elytra Mace": {
-          "tier": "LT5",
-          "queue": "Mace & Spear"
-        },
-        "Uhc": {
-          "tier": "LT5",
-          "queue": "Shield"
-        }
-      }
-    },
-    {
       "discordId": "1392903937383727185",
       "username": "tirux2.",
       "displayName": "Tiru |TRAINING ARC|",
       "ign": "tirux2.",
       "avatar": "https://cdn.discordapp.com/avatars/1392903937383727185/ddb0329d65f0d84de1e2f31a63fdc316.png?size=1024",
       "joinedAt": "2026-07-15T16:57:46.325000+00:00",
-      "region": null,
+      "region": "AF",
       "tiers": {
         "Elytra Mace": {
           "tier": "LT5",
@@ -2562,6 +2770,21 @@
         "Diamond Sword": {
           "tier": "LT5",
           "queue": "Sword"
+        }
+      }
+    },
+    {
+      "discordId": "1142522905163485205",
+      "username": "tlnspedy",
+      "displayName": "Swaggy p|",
+      "ign": "tlnspedy",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/2.png",
+      "joinedAt": "2026-07-04T15:35:09.509000+00:00",
+      "region": "NA",
+      "tiers": {
+        "Netherite Op": {
+          "tier": "LT5",
+          "queue": "Buff"
         }
       }
     },
@@ -2598,29 +2821,29 @@
   ],
   "tierCounts": {
     "HT2": 1,
-    "HT3": 4,
-    "HT4": 19,
-    "HT5": 42,
+    "HT3": 5,
+    "HT4": 22,
+    "HT5": 44,
     "LT1": 0,
-    "LT2": 0,
-    "LT3": 29,
-    "LT4": 30,
-    "LT5": 60
+    "LT2": 1,
+    "LT3": 31,
+    "LT4": 34,
+    "LT5": 62
   },
   "stats": {
     "serverName": "Minecraft Bedrock Tierlist (MCBTL)",
     "serverIcon": "https://cdn.discordapp.com/icons/1468307422186573898/5115108c35b0111facfee9a95467b363.png?size=1024",
     "members": 1029,
     "testers": 12,
-    "totalRanked": 133,
+    "totalRanked": 138,
     "regionCounts": {
-      "NA": 25,
-      "EU": 45,
-      "AS": 27,
+      "NA": 27,
+      "EU": 46,
+      "AS": 28,
       "OCE": 3,
       "SA": 0,
-      "AF": 0
+      "AF": 8
     }
   },
-  "updatedAt": "2026-09-16T19:58:53.339809+00:00"
+  "updatedAt": "2026-09-16T20:03:28.952985+00:00"
 }
