@@ -21,7 +21,7 @@
           "tier": "LT3",
           "queue": "Buff"
         },
-        "Netherite Smp": {
+        "Netherite SMP": {
           "tier": "LT3",
           "queue": "SMP"
         },
@@ -37,7 +37,7 @@
           "tier": "LT3",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT3",
           "queue": "Shield"
         },
@@ -80,7 +80,7 @@
           "tier": "HT3",
           "queue": "Sword"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT2",
           "queue": "Shield"
         }
@@ -95,6 +95,10 @@
       "joinedAt": "2026-02-03T21:30:57.498000+00:00",
       "region": "EU",
       "tiers": {
+        "Netherite SMP": {
+          "tier": "LT4",
+          "queue": "SMP"
+        },
         "Netherite Sword": {
           "tier": "HT5",
           "queue": "Sword"
@@ -102,10 +106,6 @@
         "Rod": {
           "tier": "LT4",
           "queue": "Buff"
-        },
-        "Netherite Smp": {
-          "tier": "LT4",
-          "queue": "SMP"
         },
         "Spear Mace": {
           "tier": "LT4",
@@ -131,7 +131,7 @@
           "tier": "HT4",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "HT4",
           "queue": "Shield"
         },
@@ -162,7 +162,7 @@
           "tier": "LT3",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "HT3",
           "queue": "Shield"
         }
@@ -208,7 +208,7 @@
           "tier": "HT4",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT3",
           "queue": "Shield"
         },
@@ -254,7 +254,7 @@
       "joinedAt": "2026-02-15T14:36:54.482000+00:00",
       "region": "EU",
       "tiers": {
-        "Netherite Smp": {
+        "Netherite SMP": {
           "tier": "HT4",
           "queue": "SMP"
         },
@@ -320,7 +320,7 @@
           "tier": "LT3",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT3",
           "queue": "Shield"
         },
@@ -366,7 +366,7 @@
           "tier": "HT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "HT5",
           "queue": "Shield"
         },
@@ -397,7 +397,7 @@
           "tier": "HT4",
           "queue": "Buff"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT3",
           "queue": "Shield"
         }
@@ -684,7 +684,7 @@
           "tier": "LT3",
           "queue": "Buff"
         },
-        "Netherite Smp": {
+        "Netherite SMP": {
           "tier": "LT3",
           "queue": "SMP"
         },
@@ -696,7 +696,7 @@
           "tier": "LT3",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT3",
           "queue": "Shield"
         },
@@ -769,7 +769,7 @@
           "tier": "LT4",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT4",
           "queue": "Shield"
         },
@@ -875,7 +875,7 @@
           "tier": "HT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "HT5",
           "queue": "Shield"
         }
@@ -950,7 +950,7 @@
       "joinedAt": "2026-07-30T17:00:33.597000+00:00",
       "region": "NA",
       "tiers": {
-        "Uhc": {
+        "UHC": {
           "tier": "HT5",
           "queue": "Shield"
         }
@@ -969,7 +969,7 @@
           "tier": "LT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT5",
           "queue": "Shield"
         },
@@ -1080,7 +1080,7 @@
           "tier": "LT5",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT5",
           "queue": "Shield"
         },
@@ -1111,7 +1111,7 @@
           "tier": "HT5",
           "queue": "Sword"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT4",
           "queue": "Shield"
         }
@@ -1263,7 +1263,7 @@
           "tier": "LT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT5",
           "queue": "Shield"
         },
@@ -1294,7 +1294,7 @@
           "tier": "LT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT5",
           "queue": "Shield"
         },
@@ -1412,7 +1412,7 @@
           "tier": "LT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT5",
           "queue": "Shield"
         },
@@ -1451,9 +1451,13 @@
           "tier": "LT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT5",
           "queue": "Shield"
+        },
+        "Rocket": {
+          "tier": "HT5",
+          "queue": "Other"
         },
         "Spear Mace": {
           "tier": "HT5",
@@ -1504,7 +1508,7 @@
           "tier": "HT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "HT5",
           "queue": "Shield"
         },
@@ -1527,7 +1531,7 @@
           "tier": "HT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT4",
           "queue": "Shield"
         }
@@ -1542,11 +1546,15 @@
       "joinedAt": "2026-05-31T15:21:37.758000+00:00",
       "region": "NA",
       "tiers": {
+        "Netherite SMP": {
+          "tier": "LT5",
+          "queue": "SMP"
+        },
         "Elytra Mace": {
           "tier": "LT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT5",
           "queue": "Shield"
         },
@@ -1577,7 +1585,7 @@
           "tier": "LT3",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT3",
           "queue": "Shield"
         },
@@ -1600,7 +1608,7 @@
           "tier": "LT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT3",
           "queue": "Shield"
         }
@@ -1645,7 +1653,7 @@
       "joinedAt": "2026-05-19T02:46:38.566000+00:00",
       "region": "NA",
       "tiers": {
-        "Uhc": {
+        "UHC": {
           "tier": "LT3",
           "queue": "Shield"
         }
@@ -1664,6 +1672,10 @@
           "tier": "LT5",
           "queue": "Explosives"
         },
+        "Netherite SMP": {
+          "tier": "LT5",
+          "queue": "SMP"
+        },
         "Axe": {
           "tier": "LT4",
           "queue": "Shield"
@@ -1676,7 +1688,7 @@
           "tier": "LT3",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT3",
           "queue": "Shield"
         },
@@ -1734,7 +1746,7 @@
           "tier": "LT3",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT3",
           "queue": "Shield"
         }
@@ -1769,7 +1781,7 @@
           "tier": "LT3",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT3",
           "queue": "Shield"
         },
@@ -1826,7 +1838,7 @@
           "tier": "LT3",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT3",
           "queue": "Shield"
         }
@@ -1909,7 +1921,7 @@
           "tier": "LT5",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT5",
           "queue": "Shield"
         },
@@ -2064,7 +2076,7 @@
           "tier": "LT4",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT4",
           "queue": "Shield"
         }
@@ -2117,7 +2129,7 @@
           "tier": "LT4",
           "queue": "Shield"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT4",
           "queue": "Shield"
         },
@@ -2227,7 +2239,7 @@
       "joinedAt": "2026-08-28T01:11:02.447000+00:00",
       "region": "AS",
       "tiers": {
-        "Uhc": {
+        "UHC": {
           "tier": "LT4",
           "queue": "Shield"
         }
@@ -2261,7 +2273,7 @@
       "joinedAt": "2026-09-03T10:18:48.592000+00:00",
       "region": "AS",
       "tiers": {
-        "Uhc": {
+        "UHC": {
           "tier": "LT5",
           "queue": "Shield"
         }
@@ -2469,7 +2481,7 @@
           "tier": "LT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT5",
           "queue": "Shield"
         }
@@ -2601,7 +2613,7 @@
           "tier": "LT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT5",
           "queue": "Shield"
         },
@@ -2620,6 +2632,10 @@
       "joinedAt": "2026-07-04T17:47:42.019000+00:00",
       "region": "EU",
       "tiers": {
+        "Rocket": {
+          "tier": "LT5",
+          "queue": "Other"
+        },
         "Diamond Sword": {
           "tier": "LT5",
           "queue": "Sword"
@@ -2699,7 +2715,7 @@
           "tier": "LT5",
           "queue": "Mace & Spear"
         },
-        "Uhc": {
+        "UHC": {
           "tier": "LT5",
           "queue": "Shield"
         }
@@ -2845,5 +2861,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-16T20:08:28.467572+00:00"
+  "updatedAt": "2026-09-16T20:13:35.575100+00:00"
 }
