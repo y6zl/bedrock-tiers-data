@@ -3,5 +3,13 @@
   "serverIcon": "https://cdn.discordapp.com/icons/1468307422186573898/5115108c35b0111facfee9a95467b363.png?size=1024",
   "members": 1029,
   "testers": 12,
-  "totalRanked": 133
+  "totalRanked": 133,
+  "regionCounts": {
+    "NA": 25,
+    "EU": 45,
+    "AS": 27,
+    "OCE": 3,
+    "SA": 0,
+    "AF": 0
+  }
 }
