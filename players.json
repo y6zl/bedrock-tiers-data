@@ -13,7 +13,7 @@
           "tier": "LT3",
           "queue": "Buff"
         },
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "LT3",
           "queue": "Buff"
         },
@@ -72,7 +72,7 @@
           "tier": "LT3",
           "queue": "Sword"
         },
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "HT3",
           "queue": "Buff"
         },
@@ -115,7 +115,7 @@
           "tier": "LT4",
           "queue": "Shield"
         },
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "HT4",
           "queue": "Buff"
         },
@@ -196,7 +196,7 @@
       "joinedAt": "2026-06-18T08:44:39.315000+00:00",
       "region": "EU",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "LT4",
           "queue": "Buff"
         },
@@ -277,7 +277,7 @@
       "joinedAt": "2026-08-05T18:37:36.942000+00:00",
       "region": "EU",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "HT4",
           "queue": "Buff"
         },
@@ -312,7 +312,7 @@
           "tier": "HT4",
           "queue": "Shield"
         },
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "LT3",
           "queue": "Buff"
         },
@@ -339,7 +339,7 @@
       "joinedAt": "2026-07-21T13:12:45.159000+00:00",
       "region": "AS",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "HT4",
           "queue": "Buff"
         },
@@ -393,7 +393,7 @@
       "joinedAt": "2026-08-14T16:31:00.834000+00:00",
       "region": "EU",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "HT4",
           "queue": "Buff"
         },
@@ -446,7 +446,7 @@
       "joinedAt": "2026-06-01T18:45:35.403000+00:00",
       "region": "EU",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "HT4",
           "queue": "Buff"
         },
@@ -526,7 +526,7 @@
           "tier": "HT4",
           "queue": "Buff"
         },
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "HT4",
           "queue": "Buff"
         },
@@ -641,7 +641,7 @@
           "tier": "HT4",
           "queue": "Buff"
         },
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "HT4",
           "queue": "Buff"
         },
@@ -680,7 +680,7 @@
           "tier": "LT3",
           "queue": "Buff"
         },
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "LT3",
           "queue": "Buff"
         },
@@ -973,7 +973,7 @@
           "tier": "LT5",
           "queue": "Shield"
         },
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "HT5",
           "queue": "Buff"
         },
@@ -1126,7 +1126,7 @@
       "joinedAt": "2026-08-10T12:40:30.785000+00:00",
       "region": "AS",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "LT5",
           "queue": "Buff"
         },
@@ -1240,7 +1240,7 @@
       "joinedAt": "2026-06-27T12:07:19.949000+00:00",
       "region": "EU",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "HT5",
           "queue": "Buff"
         },
@@ -1286,7 +1286,7 @@
       "joinedAt": "2026-05-29T20:33:24.130000+00:00",
       "region": "AS",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "LT5",
           "queue": "Buff"
         },
@@ -1366,7 +1366,7 @@
       "joinedAt": "2026-06-28T12:34:36.914000+00:00",
       "region": "EU",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "HT5",
           "queue": "Buff"
         },
@@ -1734,7 +1734,7 @@
           "tier": "LT3",
           "queue": "Buff"
         },
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "LT3",
           "queue": "Buff"
         },
@@ -1765,7 +1765,7 @@
           "tier": "LT3",
           "queue": "Buff"
         },
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "LT3",
           "queue": "Buff"
         },
@@ -2004,7 +2004,7 @@
       "joinedAt": "2026-08-06T05:20:11.458000+00:00",
       "region": "NA",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "LT4",
           "queue": "Buff"
         },
@@ -2091,7 +2091,7 @@
       "joinedAt": "2026-06-09T15:02:00.810000+00:00",
       "region": "NA",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "LT4",
           "queue": "Buff"
         }
@@ -2496,7 +2496,7 @@
       "joinedAt": "2026-06-24T15:51:14.625000+00:00",
       "region": "EU",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "LT5",
           "queue": "Buff"
         },
@@ -2798,7 +2798,7 @@
       "joinedAt": "2026-07-04T15:35:09.509000+00:00",
       "region": "NA",
       "tiers": {
-        "Netherite Op": {
+        "Netherite Potions": {
           "tier": "LT5",
           "queue": "Buff"
         }
@@ -2861,5 +2861,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-16T20:18:35.721630+00:00"
+  "updatedAt": "2026-09-16T20:19:19.649400+00:00"
 }
