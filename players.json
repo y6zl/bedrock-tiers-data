@@ -1660,6 +1660,21 @@
       }
     },
     {
+      "discordId": "1190367489515855893",
+      "username": "killerdevils",
+      "displayName": "theunknowen",
+      "ign": "killerdevils",
+      "avatar": "https://cdn.discordapp.com/avatars/1190367489515855893/d74917b0dc7f4bfc41cb727c361e8391.png?size=1024",
+      "joinedAt": "2026-09-18T08:30:58.058000+00:00",
+      "region": "EU",
+      "tiers": {
+        "Diamond Sword": {
+          "tier": "LT3",
+          "queue": "Sword"
+        }
+      }
+    },
+    {
       "discordId": "1529792652932026378",
       "username": "kittydestroyerheh",
       "displayName": "ktd(addtoastrasHTs)",
@@ -2811,7 +2826,7 @@
     "HT5": 44,
     "LT1": 0,
     "LT2": 1,
-    "LT3": 30,
+    "LT3": 31,
     "LT4": 34,
     "LT5": 62
   },
@@ -2820,15 +2835,15 @@
     "serverIcon": "https://cdn.discordapp.com/icons/1468307422186573898/5115108c35b0111facfee9a95467b363.png?size=1024",
     "members": 1032,
     "testers": 12,
-    "totalRanked": 137,
+    "totalRanked": 138,
     "regionCounts": {
       "NA": 26,
-      "EU": 46,
+      "EU": 47,
       "AS": 28,
       "OCE": 3,
       "SA": 0,
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-18T10:04:20.046479+00:00"
+  "updatedAt": "2026-09-18T10:08:50.248800+00:00"
 }
