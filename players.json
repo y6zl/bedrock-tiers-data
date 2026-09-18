@@ -1908,29 +1908,6 @@
       }
     },
     {
-      "discordId": "1401563939501899786",
-      "username": "emperor6075.",
-      "displayName": "Emperor6075 \u271e",
-      "ign": "emperor6075.",
-      "avatar": "https://cdn.discordapp.com/avatars/1401563939501899786/8644931e14181fb9aca7da9f384a6db3.png?size=1024",
-      "joinedAt": "2026-03-26T15:19:34.614000+00:00",
-      "region": "NA",
-      "tiers": {
-        "Axe": {
-          "tier": "LT5",
-          "queue": "Shield"
-        },
-        "UHC": {
-          "tier": "LT5",
-          "queue": "Shield"
-        },
-        "Elytra Mace": {
-          "tier": "LT4",
-          "queue": "Mace & Spear"
-        }
-      }
-    },
-    {
       "discordId": "1527722705913385062",
       "username": "emr_389045",
       "displayName": "EMR_3890",
@@ -2842,17 +2819,17 @@
     "LT1": 0,
     "LT2": 1,
     "LT3": 32,
-    "LT4": 34,
-    "LT5": 62
+    "LT4": 33,
+    "LT5": 61
   },
   "stats": {
     "serverName": "Minecraft Bedrock Tierlist (MCBTL)",
     "serverIcon": "https://cdn.discordapp.com/icons/1468307422186573898/5115108c35b0111facfee9a95467b363.png?size=1024",
-    "members": 1036,
+    "members": 1035,
     "testers": 12,
-    "totalRanked": 139,
+    "totalRanked": 138,
     "regionCounts": {
-      "NA": 26,
+      "NA": 25,
       "EU": 46,
       "AS": 29,
       "OCE": 4,
@@ -2860,5 +2837,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-18T15:54:19.792498+00:00"
+  "updatedAt": "2026-09-18T15:59:08.562486+00:00"
 }
