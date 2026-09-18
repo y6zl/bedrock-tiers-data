@@ -1341,9 +1341,9 @@
     {
       "discordId": "1539294549782958151",
       "username": "soundseing36",
-      "displayName": "SoundSwing36",
+      "displayName": "void",
       "ign": "soundseing36",
-      "avatar": "https://cdn.discordapp.com/avatars/1539294549782958151/8768fc9fc01ecc9bad2c7f7fe7c2ad2c.png?size=1024",
+      "avatar": "https://cdn.discordapp.com/avatars/1539294549782958151/50b3553a05d8e2dcdbe54599ff854888.png?size=1024",
       "joinedAt": "2026-09-14T13:47:02.131000+00:00",
       "region": "AF",
       "tiers": {
@@ -2860,5 +2860,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-18T15:44:20.165808+00:00"
+  "updatedAt": "2026-09-18T15:49:19.750505+00:00"
 }
