@@ -1666,7 +1666,7 @@
       "ign": "killerdevils",
       "avatar": "https://cdn.discordapp.com/avatars/1190367489515855893/d74917b0dc7f4bfc41cb727c361e8391.png?size=1024",
       "joinedAt": "2026-09-18T08:30:58.058000+00:00",
-      "region": null,
+      "region": "AS",
       "tiers": {
         "Diamond Sword": {
           "tier": "LT3",
@@ -2839,11 +2839,11 @@
     "regionCounts": {
       "NA": 26,
       "EU": 46,
-      "AS": 28,
+      "AS": 29,
       "OCE": 3,
       "SA": 0,
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-18T10:08:50.847679+00:00"
+  "updatedAt": "2026-09-18T10:08:51.213655+00:00"
 }
