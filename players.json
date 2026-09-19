@@ -1420,15 +1420,15 @@
           "tier": "HT5",
           "queue": "Shield"
         },
-        "Diamond Sword": {
-          "tier": "HT5",
-          "queue": "Sword"
-        },
         "Spear Mace": {
           "tier": "LT4",
           "queue": "Mace & Spear"
         },
         "Netherite Sword": {
+          "tier": "LT4",
+          "queue": "Sword"
+        },
+        "Diamond Sword": {
           "tier": "LT4",
           "queue": "Sword"
         }
@@ -2837,5 +2837,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-19T07:04:19.926371+00:00"
+  "updatedAt": "2026-09-19T07:08:54.190728+00:00"
 }
