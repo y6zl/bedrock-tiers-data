@@ -374,13 +374,13 @@
           "tier": "LT4",
           "queue": "Shield"
         },
+        "Diamond Sword": {
+          "tier": "LT4",
+          "queue": "Sword"
+        },
         "Melee": {
           "tier": "HT4",
           "queue": "Shield"
-        },
-        "Diamond Sword": {
-          "tier": "HT4",
-          "queue": "Sword"
         }
       }
     },
@@ -2837,5 +2837,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-19T17:49:20.638815+00:00"
+  "updatedAt": "2026-09-19T17:53:41.207155+00:00"
 }
