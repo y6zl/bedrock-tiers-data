@@ -2826,7 +2826,7 @@
     "serverName": "Minecraft Bedrock Tierlist (MCBTL)",
     "serverIcon": "https://cdn.discordapp.com/icons/1468307422186573898/5115108c35b0111facfee9a95467b363.png?size=1024",
     "members": 1039,
-    "testers": 12,
+    "testers": 13,
     "totalRanked": 138,
     "regionCounts": {
       "NA": 25,
@@ -2837,5 +2837,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-19T10:34:20.117765+00:00"
+  "updatedAt": "2026-09-19T10:39:19.699055+00:00"
 }
