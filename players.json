@@ -90,11 +90,15 @@
       "discordId": "1366487786085159032",
       "username": "thepraids.",
       "displayName": "dan",
-      "ign": "getmaced",
+      "ign": "g",
       "avatar": "https://cdn.discordapp.com/avatars/1366487786085159032/d8fc0d96661eb59fcb023e6bf9ac58b8.png?size=1024",
       "joinedAt": "2026-09-12T18:56:34.727000+00:00",
       "region": "EU",
       "tiers": {
+        "Netherite SMP": {
+          "tier": "LT5",
+          "queue": "SMP"
+        },
         "Netherite Sword": {
           "tier": "HT3",
           "queue": "Sword"
@@ -2843,7 +2847,7 @@
     "LT2": 1,
     "LT3": 32,
     "LT4": 33,
-    "LT5": 60
+    "LT5": 61
   },
   "stats": {
     "serverName": "Minecraft Bedrock Tierlist (MCBTL)",
@@ -2860,5 +2864,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-20T19:47:48.468432+00:00"
+  "updatedAt": "2026-09-20T19:48:24.846572+00:00"
 }
