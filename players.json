@@ -1408,21 +1408,6 @@
       }
     },
     {
-      "discordId": "1366487786085159032",
-      "username": "thepraids.",
-      "displayName": "dan",
-      "ign": "thepraids.",
-      "avatar": "https://cdn.discordapp.com/avatars/1366487786085159032/d8fc0d96661eb59fcb023e6bf9ac58b8.png?size=1024",
-      "joinedAt": "2026-09-12T18:56:34.727000+00:00",
-      "region": "EU",
-      "tiers": {
-        "Diamond Sword": {
-          "tier": "HT5",
-          "queue": "Sword"
-        }
-      }
-    },
-    {
       "discordId": "1059964233657372713",
       "username": "theredman9300",
       "displayName": "Monke",
@@ -2838,7 +2823,7 @@
     "HT2": 1,
     "HT3": 5,
     "HT4": 22,
-    "HT5": 46,
+    "HT5": 45,
     "LT1": 0,
     "LT2": 1,
     "LT3": 32,
@@ -2850,15 +2835,15 @@
     "serverIcon": "https://cdn.discordapp.com/icons/1468307422186573898/5115108c35b0111facfee9a95467b363.png?size=1024",
     "members": 1043,
     "testers": 14,
-    "totalRanked": 139,
+    "totalRanked": 138,
     "regionCounts": {
       "NA": 24,
-      "EU": 47,
+      "EU": 46,
       "AS": 30,
       "OCE": 4,
       "SA": 0,
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-20T19:44:33.588936+00:00"
+  "updatedAt": "2026-09-20T19:44:33.687609+00:00"
 }
