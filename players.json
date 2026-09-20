@@ -1416,10 +1416,6 @@
           "tier": "LT5",
           "queue": "Mace & Spear"
         },
-        "UHC": {
-          "tier": "LT5",
-          "queue": "Shield"
-        },
         "Melee": {
           "tier": "HT5",
           "queue": "Shield"
@@ -1427,6 +1423,10 @@
         "Spear Mace": {
           "tier": "LT4",
           "queue": "Mace & Spear"
+        },
+        "UHC": {
+          "tier": "LT4",
+          "queue": "Shield"
         },
         "Netherite Sword": {
           "tier": "LT4",
@@ -1867,7 +1867,7 @@
       "username": "wandigoat",
       "displayName": "WandiGOAT",
       "ign": "wandigoat",
-      "avatar": "https://cdn.discordapp.com/avatars/1414629582140870677/add13d5d8b6c681654591e65c8707472.png?size=1024",
+      "avatar": "https://cdn.discordapp.com/avatars/1414629582140870677/caea0d97ebb92ec1b1ef46aef96c2046.png?size=1024",
       "joinedAt": "2026-08-08T16:34:20.928000+00:00",
       "region": "EU",
       "tiers": {
@@ -2856,5 +2856,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-20T16:04:19.932601+00:00"
+  "updatedAt": "2026-09-20T16:06:49.048868+00:00"
 }
