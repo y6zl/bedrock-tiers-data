@@ -942,21 +942,6 @@
       }
     },
     {
-      "discordId": "1415495127824072716",
-      "username": "ghostmn0971",
-      "displayName": "ghostmN",
-      "ign": "ghostmn0971",
-      "avatar": "https://cdn.discordapp.com/avatars/1415495127824072716/4b8456b0ff7a8d48bc396fca6190cf1e.png?size=1024",
-      "joinedAt": "2026-07-30T17:00:33.597000+00:00",
-      "region": "NA",
-      "tiers": {
-        "UHC": {
-          "tier": "HT5",
-          "queue": "Shield"
-        }
-      }
-    },
-    {
       "discordId": "1493633606533255248",
       "username": "huzaifapro122",
       "displayName": "\u0f3a\ud835\udd73\ud835\udd9a\ud835\udd9f\ud835\udd86\ud835\udd8e\ud835\udd8b\ud835\udd86 \ud835\udd7e\ud835\udd94\ud835\udd9a\ud835\udd91\u0f3b",
@@ -1462,6 +1447,21 @@
         "Spear Mace": {
           "tier": "HT5",
           "queue": "Mace & Spear"
+        }
+      }
+    },
+    {
+      "discordId": "1415495127824072716",
+      "username": "ttvghosthunter",
+      "displayName": "TTKGhostHunter",
+      "ign": "ttvghosthunter",
+      "avatar": "https://cdn.discordapp.com/avatars/1415495127824072716/4b8456b0ff7a8d48bc396fca6190cf1e.png?size=1024",
+      "joinedAt": "2026-07-30T17:00:33.597000+00:00",
+      "region": "NA",
+      "tiers": {
+        "UHC": {
+          "tier": "HT5",
+          "queue": "Shield"
         }
       }
     },
@@ -2822,5 +2822,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-20T07:49:19.894368+00:00"
+  "updatedAt": "2026-09-20T07:54:20.156717+00:00"
 }
