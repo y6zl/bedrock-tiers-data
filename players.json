@@ -1038,6 +1038,10 @@
       "joinedAt": "2026-08-07T11:37:43.445000+00:00",
       "region": "EU",
       "tiers": {
+        "Axe": {
+          "tier": "HT5",
+          "queue": "Shield"
+        },
         "Diamond Sword": {
           "tier": "HT5",
           "queue": "Sword"
@@ -2856,5 +2860,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-20T20:28:19.999599+00:00"
+  "updatedAt": "2026-09-20T20:30:43.864586+00:00"
 }
