@@ -1424,10 +1424,6 @@
           "tier": "LT4",
           "queue": "Mace & Spear"
         },
-        "UHC": {
-          "tier": "LT4",
-          "queue": "Shield"
-        },
         "Netherite Sword": {
           "tier": "LT4",
           "queue": "Sword"
@@ -2856,5 +2852,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-20T16:06:49.048868+00:00"
+  "updatedAt": "2026-09-20T16:06:50.564005+00:00"
 }
