@@ -419,25 +419,6 @@
       }
     },
     {
-      "discordId": "1236219920342323273",
-      "username": "jam1e0882",
-      "displayName": "JamieplaysYT960",
-      "ign": "jam1e0882",
-      "avatar": "https://cdn.discordapp.com/avatars/1236219920342323273/ddbd966fb058c530cd4cb40f8cce6a4a.png?size=1024",
-      "joinedAt": "2026-08-07T11:37:43.445000+00:00",
-      "region": "EU",
-      "tiers": {
-        "Diamond Sword": {
-          "tier": "LT4",
-          "queue": "Sword"
-        },
-        "Netherite Sword": {
-          "tier": "HT4",
-          "queue": "Sword"
-        }
-      }
-    },
-    {
       "discordId": "1492667301340647605",
       "username": "latineskimo",
       "displayName": "Latin",
@@ -1045,6 +1026,21 @@
         "Melee": {
           "tier": "HT5",
           "queue": "Shield"
+        }
+      }
+    },
+    {
+      "discordId": "1236219920342323273",
+      "username": "jam1e0882",
+      "displayName": "JamieplaysYT960",
+      "ign": "Jamieplaysyt960",
+      "avatar": "https://cdn.discordapp.com/avatars/1236219920342323273/ddbd966fb058c530cd4cb40f8cce6a4a.png?size=1024",
+      "joinedAt": "2026-08-07T11:37:43.445000+00:00",
+      "region": "EU",
+      "tiers": {
+        "Diamond Sword": {
+          "tier": "HT5",
+          "queue": "Sword"
         }
       }
     },
@@ -2837,12 +2833,12 @@
   "tierCounts": {
     "HT2": 1,
     "HT3": 5,
-    "HT4": 23,
-    "HT5": 45,
+    "HT4": 22,
+    "HT5": 46,
     "LT1": 0,
     "LT2": 1,
     "LT3": 32,
-    "LT4": 33,
+    "LT4": 32,
     "LT5": 60
   },
   "stats": {
@@ -2860,5 +2856,5 @@
       "AF": 8
     }
   },
-  "updatedAt": "2026-09-20T20:27:40.343479+00:00"
+  "updatedAt": "2026-09-20T20:28:18.359430+00:00"
 }
